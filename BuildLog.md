@@ -1,1 +1,1 @@
-- build `v1.3-rc6`123
+- build `v1.3-rc6`
